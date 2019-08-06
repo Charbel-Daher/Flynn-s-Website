@@ -22,3 +22,7 @@ h1 {
 	
 img {width:150px}
 #footer {background-color:blue;color:#fff;}
+
+#lowerfooter {background-color:darkblue;}
+
+#lowerfooter i {font-size:30px;color:#fff;margin:16px 7px}
