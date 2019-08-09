@@ -1,6 +1,6 @@
  body {
-	font-family: 'Suez One', serif;
-	font-weight: 200;
+	font-family: 'Black Han Sans', sans-serif;
+	font-weight: 100;
 	color:blue;
   
   
@@ -12,7 +12,7 @@ h4,
 h3,
 h2,
 h1 {
-	font-family: 'Black Han Sans', sans-serif;
+	font-family: 'Suez One', serif;
 	font-weight: 200;
 	
 	
@@ -25,4 +25,5 @@ img {width:150px}
 
 #lowerfooter {background-color:#9E5F91;}
 
-#lowerfooter i {font-size:30px;color:#0A112C;margin:16px 7px}
+#lowerfooter i {font-size:60px;color:#0A112C;margin:16px 7px 20px;}
+
