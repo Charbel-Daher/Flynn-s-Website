@@ -28,13 +28,47 @@ img {width:150px}
 
 #lowerfooter i {font-size:60px;color:#0A112C;margin:16px 7px 20px 25px;}
 
-#products i {font-size:60px;color:#9E5F91;margin:16px 7px 20px 25px }
+#products i {font-size:50px;color:#9E5F91;margin:16px 7px 20px 25px;}
 
 #products {font-size:60px;color:#1A78AF}
 
 body{
 	background:#0A112C;
 }
+#slider {margin:0px 0px 50px}
+
+.carousel-inner {
+    border-top: 10px;
+    border-left: 10px;
+    border-right: 10px;
+    border-bottom: 10px;
+    border-color: #9E5F91;
+    border-style: solid;
+}
+
+.nav-link {color:#1A78AF!important}
+
+.navbar-toggler-icon {
+	color:green!important
+}
+
+.dropdown-item {
+	color:#1A78AF
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
